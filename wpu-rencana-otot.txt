@@ -3,10 +3,11 @@ RENCANA OTOT WPU
 -Javascript
 *ES6
 * Framework Javascript
-^ angular 
+^ vue
 ^ react
 -struktur data dasar
 -PHP Frameworks
-^ LARAVEL
+^ laravel
 -Interview
 -Vlog
+-python
