@@ -2,3 +2,5 @@ WPU RESOLUSI
 -Konsisten untuk latihan push-up
 -Membuat jadwal untuk asupan makanan
 -Membuat forum untuk membahas tentang kesehatan
+-Membuat makanan sehat
+-Kolaborasi dengan para atlit olahraga
