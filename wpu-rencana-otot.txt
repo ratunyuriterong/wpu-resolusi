@@ -3,6 +3,7 @@ RENCANA OTOT WPU
 -Javascript
 *ES6
 * Framework Javascript
+-struktur data dasar
 -PHP Frameworks
 -Interview
 -Vlog
